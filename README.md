@@ -1,16 +1,22 @@
-## Hi there 👋
+ 👋 Hi there, I'm Kusuma B.!
+ 🌩 Aspiring Cloud Engineer | ☁ AWS Enthusiast | 👩‍💻 B.Tech CSE Student (2023–2027)
+### 🚀 About Me
+- 🎓 I’m currently pursuing B.Tech in Computer Science and Engineering  
+- 🌱 Learning Cloud Computing, Networking Fundamentals, Git, GitHub, and Linux  
+- 🧠 Building projects step-by-step as I grow in the cloud domain  
+- 🛠 Skills in progress: AWS, Git, GitHub, Bash (coming soon), Networking Basics,basic architecture of cloud  
+### 🧑‍💻 Projects
 
-<!--
-**Kusuma05-source/kusuma05-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✅ *My First Cloud Project* – Setting up cloud environment from scratch, using EC2, SSH, and Git  
+  (More coming soon...)
+### 🔗 Connect with Me
 
-Here are some ideas to get you started:
+- 📧 Email: [kusuma.work@gmail.com]  
+- 💼 LinkedIn: [www.linkedin.com/in/kusumababu55]
+- 📝 Portfolio: Coming soon...
+### ✨ Fun Fact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I never give up even when it gets confusing — I’ll learn, restart, and go again! 💪✨  
+> This is just the beginning of my cloud journey...
+### 📌 Pinned Repositories
+Check out my pinned repositories below to follow my learning progress and projects!
