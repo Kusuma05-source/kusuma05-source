@@ -1,5 +1,5 @@
  👋 Hi there, I'm Kusuma B.!
- 🌩 Aspiring Cloud Engineer | ☁ AWS Enthusiast | 👩‍💻 B.Tech CSE Student (2023–2027)
+ 🌩 Aspiring software Engineer | ☁ AWS Enthusiast | 👩‍💻 B.Tech CSE Student (2023–2027)
 ### 🚀 About Me
 - 🎓 I’m currently pursuing B.Tech in Computer Science and Engineering  
 - 🌱 Learning Cloud Computing, Networking Fundamentals, Git, GitHub, and Linux  
@@ -11,7 +11,7 @@
   (More coming soon...)
 ### 🔗 Connect with Me
 
-- 📧 Email: [kusuma.work@gmail.com]  
+- 📧 Email: [kusuma.work2027@gmail.com]  
 - 💼 LinkedIn: [www.linkedin.com/in/kusumababu55]
 - 📝 Portfolio: Coming soon...
 ### ✨ Fun Fact
